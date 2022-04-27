@@ -1,0 +1,35 @@
+.btn {
+    display: inline-block;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    transition: all 0.5s;
+    cursor: pointer;
+
+}
+
+.btn-sm {
+    border-radius: 2px;
+    font-size: 14px;
+    padding: 12px;
+    width: 100px;
+    margin: 2px;
+    border-radius: 20px;
+}
+
+.btn-lg {
+    border-radius: 4px;
+    font-size: 24px;
+    padding: 15px;
+    width: 120px;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.btn-blue {
+    background-color: #2142ad;
+}
+
+.btn-orange {
+    background-color: orange;
+}

@@ -1,0 +1,6 @@
+.rectangle {
+    border-radius: 25px;
+    border: 2px solid #2142ad;
+    padding: 20px;
+    height: 150px;
+}
