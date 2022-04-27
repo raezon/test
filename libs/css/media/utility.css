@@ -3,6 +3,7 @@
         flex-direction: column;
         align-items: unset;
         align-self: unset;
+        padding-bottom: 20px;
     }
     .h1 {
         color: black;
