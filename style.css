@@ -1,4 +1,7 @@
-@import url('../libs/css/utility.css');
-@import url('../libs/css/buttons.css');
-@import url('../libs/css/rectangle.css');
-@import url('./libs/css/spiner.css');
+/****case normal screen*********************/
+@import url('../libs/css/normal/utility.css');
+@import url('../libs/css/normal/buttons.css');
+@import url('../libs/css/normal/rectangle.css');
+@import url('./libs/css/normal/spiner.css');
+/****case mobile screen*********************/
+@import url('../libs/css/media/utility.css');

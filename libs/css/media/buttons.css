@@ -1,0 +1,6 @@
+@media only screen and (max-width: 600px) {
+.btn-lg{
+    margin-left: unset;
+}
+    
+  }

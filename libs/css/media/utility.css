@@ -1,0 +1,16 @@
+@media only screen and (max-width: 600px) {
+    .header {
+        flex-direction: column;
+        align-items: unset;
+        align-self: unset;
+    }
+    .h1 {
+        color: black;
+        font-weight: bold;
+        font-size: 33px;
+    }
+    .ml-30{
+        margin-left: unset;
+    }
+    
+  }
